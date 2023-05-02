@@ -89,7 +89,7 @@
 </div>
 <br/><br/>
 <div>
-<a href="https://www.moontechnolabs.com/contact-us"><img height="60" src="profile/assets/lets-discuss-project.png" /></a>
+<a href="https://www.moontechnolabs.com/contact-us"><img height="50" src="profile/assets/lets-discuss-project.png" /></a>
 </div>
 
 <a href="https://www.moontechnolabs.com/"><img src="profile/assets/bottom-footer.png" /></a>
