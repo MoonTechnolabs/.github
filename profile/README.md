@@ -10,7 +10,6 @@
     <h3>
         Turn your awesome idea into a world-class mobile app with top software development company in the USA, India & across the globe. Expand your business opportunities with our scalable and seamless IT services to speed up your growth.
     </h3>
-    <br/>
 </div>
 
 <div>
@@ -88,8 +87,8 @@
     <a href="https://www.youtube.com/@moontechnolabs"><img  height="50" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />&nbsp; &nbsp; </a>
 </div>
 <br/><br/>
-<div>
-<a href="https://www.moontechnolabs.com/contact-us"><img height="50" src="profile/assets/lets-discuss-project.png" align="right" /></a>
+<div align="center">
+<a href="https://www.moontechnolabs.com/contact-us"><img height="50" src="profile/assets/lets-discuss-project.png" /></a>
 </div>
 <br/><br/>
 <a href="https://www.moontechnolabs.com/"><img src="profile/assets/bottom-footer.png" /></a>
