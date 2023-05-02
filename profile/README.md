@@ -3,14 +3,14 @@
 <br/>
 <div>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=moontechnolabs&label=Profile%20views&color=0e75b6&style=flat" alt="moontechnolabs" /> </p> 
-    <br/>
+    
 </div>
 
 <div>
     <h3>
         Turn your awesome idea into a world-class mobile app with top software development company in the USA, India & across the globe. Expand your business opportunities with our scalable and seamless IT services to speed up your growth.
     </h3>
-    
+    <br/>
 </div>
 
 <div>
