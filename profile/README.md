@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-<div>
+<div align="center">
     <h2>Our Expertise in Different Technologies</h2>
 </div>
 
