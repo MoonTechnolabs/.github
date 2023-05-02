@@ -32,15 +32,12 @@
     <td><a href="https://www.moontechnolabs.com/services/asp-net-web-development" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Dot Net" height="40" />&nbsp; &nbsp;  Dot Net</a></td>
     <td><a href="https://www.moontechnolabs.com/services/node-js-development-company" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40">&nbsp; &nbsp;  NodeJS</a></td>
     <td><a href="https://www.moontechnolabs.com/services/ios-app-development" target="_blank"><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" height="40" />&nbsp; &nbsp; iOS</td>
+    <td><a href="https://www.moontechnolabs.com/services/laravel-development-company" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" height="40" />&nbsp; &nbsp;Laravel</a></td>
 </tr>
 
 <tr>
-    <td><a href="https://www.moontechnolabs.com/services/laravel-development-company" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" height="40" />&nbsp; &nbsp;Laravel</a></td>
     <td><a href="https://www.moontechnolabs.com/services/eCommerce-website-development-company" target="_blank"> <img src="profile/assets/add-to-cart.png" alt="eCommerce" height="40" />&nbsp; &nbsp;eCommerce</td>
     <td><a href="https://www.moontechnolabs.com/services/angularJS-development-company" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="40" />&nbsp; &nbsp;Angular</a></td>
-</tr>
-
-<tr>
     <td><a href="https://www.moontechnolabs.com/services/android-app-development-company" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" height="40" />&nbsp; &nbsp;Android<a></td>
     <td><a href="https://www.moontechnolabs.com/services/SaaS-application-development" target="_blank"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SaaS" height="40" />&nbsp; &nbsp;SaaS</a></td>
     <td><a href="https://www.moontechnolabs.com/services/wordpress-development-company" target="_blank"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress" height="40" />&nbsp; &nbsp;Wordpress</a></td>
@@ -52,16 +49,13 @@
     <td><a href="https://www.moontechnolabs.com/services/progressive-web-app-development" target="_blank"><img src="profile/assets/pwa-icon.png" alt="PWA" height="40" />&nbsp; &nbsp;PWA</a></td>
     <td><a href="https://www.moontechnolabs.com/services/ar-vr-development-company" target="_blank"><img src="profile/assets/augmented-reality.png" alt="AR/VR" height="40" />&nbsp; &nbsp;AR/VR</a></td>
     <td><a href="#" target="_blank"><img src="profile/assets/app-store.png" alt="MAC" height="40" />&nbsp; &nbsp;MAC</a></td>
-</tr>
-
-<tr>
     <td><a href="https://www.moontechnolabs.com/services/python-development-company" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40" />&nbsp; &nbsp;Python</a></td>
     <td><a href="https://www.moontechnolabs.com/services/codeigniter-development-company" target="_blank"><img src="profile/assets/codeigniter.png" alt="CI" height="40" />&nbsp; &nbsp;CI</a></td>
-    <td><a href="https://www.moontechnolabs.com/blockchain-development-services" target="_blank"><img src="profile/assets/blockchain.png" alt="Blockchain" height="40" />&nbsp; &nbsp;Blockchain</a></td>
-    <td><a href="https://www.moontechnolabs.com/services/windows-app-development-company" target="_blank"><img src="profile/assets/windows.png" alt="Windows" height="40" />&nbsp; &nbsp;Windows</a></td>
 </tr>
 
 <tr>
+    <td><a href="https://www.moontechnolabs.com/blockchain-development-services" target="_blank"><img src="profile/assets/blockchain.png" alt="Blockchain" height="40" />&nbsp; &nbsp;Blockchain</a></td>
+    <td><a href="https://www.moontechnolabs.com/services/windows-app-development-company" target="_blank"><img src="profile/assets/windows.png" alt="Windows" height="40" />&nbsp; &nbsp;Windows</a></td>
     <td><a href="https://www.moontechnolabs.com/services/webrtc-development-company" target="_blank"><img src="profile/assets/webrtc.png" alt="WebRTC" height="40" />&nbsp; &nbsp;WebRTC</a></td>
     <td><a href="https://www.moontechnolabs.com/services/wearable-devices-app-development" target="_blank"><img src="profile/assets/wearable.png" alt="Wearable" height="40" />&nbsp; &nbsp;Wearable</a></td>
     <td><a href="" target="_blank"><img src="profile/assets/asterisk.png" alt="Asterisk" height="40" />&nbsp; &nbsp;Asterisk</a></td>
