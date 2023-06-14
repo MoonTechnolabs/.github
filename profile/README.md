@@ -8,21 +8,27 @@
 
 <div>
     <h3>
-        Turn your awesome idea into a world-class mobile app with top software development company in the USA, India & across the globe. Expand your business opportunities with our scalable and seamless IT services to speed up your growth.
+        Transform your exceptional concept into a world-renowned mobile application with the expertise of a leading software development firm, serving clients across the United States, India, and beyond. 
+    </h3>
+    <h3>
+        Our scalable and streamlined IT solutions are designed to accelerate your business growth, presenting limitless possibilities for expansion and enhanced revenue generation. 
+    </h3>
+    <h3>
+        Partner with us to unlock your mobile app's full potential and achieve unparalleled success in today's digital landscape.
     </h3>
 </div>
 <br/>
 <div>
-    <a href="https://www.moontechnolabs.com/portfolios"><img src="profile/assets/view-portfolio.svg" align="left" width="220px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </a>
-    <a href="https://www.moontechnolabs.com/blog/"><img src="profile/assets/read-blogs.svg" align="center" width="220px"></a>
-    <a href="https://www.moontechnolabs.com/contact-us"><img src="profile/assets/get-in-touch.png" align="right" width="220px"></a>
+    <a href="https://www.moontechnolabs.com/portfolios"><img src="profile/assets/view-portfolio.png" align="left" width="220px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </a>
+    <a href="https://www.moontechnolabs.com/blog/"><img src="profile/assets/tech-insights.png" align="center" width="220px"></a>
+    <a href="https://www.moontechnolabs.com/contact-us"><img src="profile/assets/connect-with-us.png" align="right" width="220px"></a>
 </div>
 
 <br/>
 <br/>
 
 <div align="center">
-    <h2>Our Expertise in Different Technologies</h2>
+    <h2>Mastering Diverse Technologies: Our Comprehensive Expertise</h2>
 </div>
 
 <table>
@@ -74,7 +80,7 @@
 </table>
 <br/>
 <div align="center">
-    <h2>Stay Connected With Our Social Network</h2>
+    <h2>Follow Us for the Latest Updates and News</h2>
     <a href="https://www.facebook.com/moontechnolabs/"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />&nbsp; &nbsp; </a>
     <a href="https://twitter.com/moontechnolabs"><img  height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />&nbsp; &nbsp; </a>
     <a href="https://www.instagram.com/moontechnolabs/"><img  height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />&nbsp; &nbsp; </a>
